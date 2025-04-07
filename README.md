@@ -30,5 +30,5 @@ HydroPlan adalah aplikasi web sederhana yang dirancang untuk membantu pengguna m
 Buka di browser: `http://127.0.0.1:3333`
 
 ## Dibuat oleh
-2208107010059 - Firjatullah Afny Abus 
-2208107010069 - Azimah Al-Huda 
+- 2208107010059 - Firjatullah Afny Abus 
+- 2208107010069 - Azimah Al-Huda 
